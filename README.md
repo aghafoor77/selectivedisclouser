@@ -71,15 +71,12 @@ This project was built and tested on ubutu 20.04.
 _Below is an example of how you can instruct build and execute thi demo._
 
 1. Clone the repo
-   ```sh
    git clone https://github.com/aghafoor77/selectivedisclouser
    ```
-2. Buld projects
-   ```sh
+2. Build projects
    ./build.sh
    ```
 3. Run demonstration
-   ```js
    ./run.sh
    ```
 
