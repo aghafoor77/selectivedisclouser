@@ -23,10 +23,7 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+     
     </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -61,21 +58,20 @@ To build Selective Disclouser demo, following software should be installed.
 
 This project was built and tested on ubutu 20.04. 
 
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct build and execute thi demo._
 
 1. Clone the repo
+   ```
    git clone https://github.com/aghafoor77/selectivedisclouser
    ```
-2. Build projects
+2. Buld projects
+   ```
    ./build.sh
    ```
 3. Run demonstration
+   ```
    ./run.sh
    ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
