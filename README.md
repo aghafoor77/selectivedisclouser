@@ -58,7 +58,6 @@ To build Selective Disclouser demo, following software should be installed.
 
 This project was built and tested on ubutu 20.04. 
 
-
 1. Clone the repo
    ```
    git clone https://github.com/aghafoor77/selectivedisclouser
@@ -72,6 +71,10 @@ This project was built and tested on ubutu 20.04.
    ./run.sh
    ```
 
+4. Main class and sample code 
+   ```
+   org.ri.se.verifiablecredentials.usecases.microcredential.SelectiveDisclouserDemo
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
